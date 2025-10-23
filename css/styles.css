@@ -242,8 +242,14 @@ html {
 }
 
 .big-title {
-  width: 45%;
+  width: 65%;
   height: auto;
+  font-family: "Mulish", sans-serif;
+  font-weight: bold;
+  font-size: calc(2.5vw + 2.5vh);
+  line-height: 1.2;
+  margin: 0;
+  white-space: nowrap;
 }
 
 .when-info {
@@ -707,8 +713,14 @@ html {
   }
 
   .big-title {
-    width: 70%;
+    width: 85%;
     height: auto;
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: calc(2.5vw + 2.5vh);
+    line-height: 1.2;
+    margin: 0;
+    white-space: nowrap;
   }
 
   .info-text, .join-online-text {
